@@ -1,2 +1,1 @@
-# surviving-ship
-bootcamp2 project
+# Ship-Survival-game
